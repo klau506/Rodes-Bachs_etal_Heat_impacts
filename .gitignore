@@ -1,0 +1,7 @@
+data/artifacts
+data/mappings
+data/from*
+data/Pop*
+.Rproj.user
+.Rhistory
+*.Rproj
